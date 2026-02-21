@@ -41,4 +41,4 @@ src/
 ```
 
 ## Status
-🚧 **Under Development** - Backend structure and entities complete, working on repositories and services.
+🚧 **Under Development** 
